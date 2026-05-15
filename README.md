@@ -64,6 +64,6 @@ The `solution_report.md` covers the following tasks:
 
 ## 📝 Notes
 
-- Business KPIs referenced in this report are derived from the provided `business_kpi_sample.csv` reference file for design purposes. All figures including error rates, resolution times, and expected impact metrics are indicative only — actual results will vary when the solution is applied to real business data
-- This solution is designed as a Co-Pilot system — human oversight is built into every critical decision point
-- The multi-modal architecture can be adapted to other retail domains by replacing the domain-specific training data
+- Business KPIs referenced in this report are derived from the provided `business_kpi_sample.csv` reference file for design purposes. All figures including error rates, resolution times, and expected impact metrics are indicative only — actual results will vary when the solution is applied to real business data.
+- This solution is designed as a Co-Pilot system — human oversight is built into every critical decision point.
+- The multi-modal architecture can be adapted to other retail domains by replacing the domain-specific training data.
